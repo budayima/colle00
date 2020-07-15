@@ -9,8 +9,6 @@
 /*   Updated: 2020/07/15 15:48:20 by budayima         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-#include<unistd.h>void ft_putchar(char    c);
 void rush04(int     x, int      y)
 {
                 int 	counter;
